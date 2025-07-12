@@ -2,19 +2,6 @@ Problem Statement 1: AiMl for networking
 
 Create an ai model using ml that should be able to classify network type and any one threat detection chosen by you.
 
-We have to submit the project in the well mannered structure shared by intel on the github.
-
-The first file should be of documentation that may including the following:
-1.which problem Statement u r working upon.
-2.How many members are working.
-3.The architecture diagram.
-4.Code being implied by you. Just explain it.
-5. Also share a video of implementation of that ai model in a different file.
-
-Take any online data set. Any python library u want.
-
-From point 1 to 5
-
 Total group members: 2
 
 Faisal Khan(b.tech aiml 3rd year)
